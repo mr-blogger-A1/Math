@@ -1,5 +1,5 @@
 [
-    "Cup-id": 102,
+    {"Cup-id": 102,
       "Cup-Name": "كوبا ليبيرتادورس - دور الـ 16",
       "Cup-Logo": "https://www.yanb8.com/api/assets/cup-logo/?id=102",
       "Match-id": 4443283,
